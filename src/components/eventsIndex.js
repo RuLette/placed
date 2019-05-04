@@ -7,7 +7,7 @@ const eventkey = process.env.EVENTKEY
 
 mapboxgl.accessToken = process.env.CUTEKITTY
 
-class DataIndex extends React.Component {
+class EventsIndex extends React.Component {
 
   constructor() {
     super()
@@ -56,5 +56,4 @@ class DataIndex extends React.Component {
     )
   }
 }
-
-export default DataIndex
+export default EventsIndex

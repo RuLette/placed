@@ -48,6 +48,4 @@ brew tap heroku/brew && brew install heroku
 heroku login in terminal
 should open browser
 
-Logged in as firegalru@hotmail.com
-
 git init
